@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<YourStyle>
+	<!---Formal-->
+	<formal>
+		<name>Magical Looks Navy Blue Sparkly Pleated </name>
+		<description>Sparkly pleated fabric shapes this stretchy dress that has adjustable spaghetti straps (that crisscross in the back), a deep V-neckline, and triangle cups. A banded waist tops a full maxi skirt for a luxe finish. Hidden back zipper/clasp
+		</description>
+		<price>₱3,100.00</price>
+	</formal>
+	<formal>
+		<name>Sweep of Romance Shiny Black Floral Sequin Strapless</name>
+		<description>Shiny sequins decorate a mesh overlay that boasts a large-scale floral print, shaping a strapless bodice with hidden no-slip strips. Fitted waist features a removable satin ribbon belt, atop a glamorous A-line skirt that finishes at a ballroom-ready maxi hem. Hidden back zipper/clasp
+		</description>
+		<price>₱3,100.00</price>
+	</formal>
+		<name>Everlasting Enchantment Royal Blue Embroidered Tulle</name>
+		<description> The elegant embroidery continues through the waist and cascades onto the tulle maxi skirt, with hidden supports at the hem that provide structure to the ball gown-style silhouette. A flirty thigh-high side slit and a dramatic train at the back add eye-catching finishing touches to this statement-making dress! Hidden back zipper/clasp.
+		</description>
+		<price>₱3,100.00</price>
+	<formal>
+		<name>Hollywood Heroine Black Satin Bow Strapless</name>
+		<description>This sleek woven satin gown begins with a strapless neckline (with hidden no-slip strips) and a dramatic bow decoration that tops a ruffled detail. Column silhouette tumbles down to a maxi hem, complete with a sultry thigh-high slit. Hidden back zipper/clasp.
+		</description>
+		<price>₱3,100.00</price>
+	</formal>
+	<formal>
+		<name>All Romance Black Floral Jacquard Strapless</name>
+		<description>Woven jacquard fabric, with an embossed purple and gold floral design, shapes this stunning dress that has a strapless sweetheart neckline (with no-slip strips) and a princess-seamed bodice (with supportive boning). A high waist tops a billowing high-low skirt with banding at the hem for added structure.
+		</description>
+		<price></price>
+	</formal>
+	<formal>
+		<name>Constantine Rust Orange Satin</name>
+		<description>Lulus Exclusive! Dazzle everyone when you walk in wearing the Lulus Constantine Rust Orange Satin Maxi Dress! Sleek and shiny satin shapes this stunning dress, with a pleated, surplice bodice, supported by adjustable spaghetti straps. Fitted waist tops a full maxi skirt with a daring side slit.
+		</description>
+		<price></price>
+	</formal>
+	<formal>
+		<name>Constantine Lavender Satin</name>
+		<description>Dazzle everyone when you walk in wearing the Lulus Constantine Lavender Satin Maxi Dress! Sleek and shiny satin shapes this stunning dress, with a pleated, surplice bodice, supported by adjustable spaghetti straps. Fitted waist tops a full maxi skirt with a daring side slit. Hidden back zipper/clasp.</description>
+		<price></price>
+	</formal>
+	<formal>
+		<name>Moriah Mustard Yellow Satin Wrap</name>
+		<description>Soft woven satin shapes this beautiful gown with adjustable skinny straps, ruffled cold shoulder sleeves, and a surplice bodice (with modesty clasp). Adjustable waist sash creates a custom fit atop a wrap maxi skirt that flows gracefully with each step.</description>
+		<price></price>
+	</formal>
+	<formal>
+		<name>Picture Perfect Emerald Green Lace</name>
+		<description>A stunning, floral, crochet lace overlay shapes a modified halter neckline and darted bodice. Dreamy chiffon takes over at the banded waist to fall into a showstopping maxi skirt with a sexy side slit. Hidden back zipper/clasp.</description>
+		<price></price>
+	</formal>
+	<formal>
+		<name>Dazzled Up Champagne Embroidered Backless</name>
+		<description>Intricate floral embroidery dances across sheer mesh as it shapes an apron neckline and adjustable spaghetti straps, that crisscross atop an open back. A princess-seamed bodice and fitted waist top a stunning maxi skirt with a mermaid silhouette and sexy thigh-high side slit.</description>
+		<price></price>
+	</formal>
+	<formal>
+		<name>Regular Fit Double-breasted jacket</name>
+		<description>Double-breasted jacket in a lyocell weave. Regular fit with peak lapels, a chest pocket, jetted front pockets with a flap, and two inner pockets. Buttons at the cuffs and two back vents. Lined. Fabric made from lyocell is super soft, wrinkle resistant and drapes beautifully.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Slim fit jersey jacket</name>
+		<description>Single-breasted jacket in stretch jersey with a collar, narrow notch lapels and decorative buttonhole. Slim fit with a chest pocket, flap front pockets and two inner pockets. One button at the front, decorative buttons at the cuffs, and a single back vent. Partly lined.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Regular Fit Suit</name>
+		<description>Suit  in woven fabric with a zip fly and waistband with a button and hook-and-eye fastener. Regular fit with diagonal side pockets, welt back pockets and legs with creases.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Regular suit </name>
+		<description>Suit trousers in woven fabric with a zip fly and waistband with a button and hook-and-eye fastener. Regular fit with diagonal side pockets, welt back pockets and legs with creases.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Suit Straight Fit</name>
+		<description>Extended waistband with a concealed button and hook-and-eye fastener, and a zip fly. Diagonal side pockets, welt back pockets with a button, and straight legs with pleats and creases</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Suit waistcoat slim fit</name>
+		<description>Suit waistcoat in woven fabric with buttons at the front, a chest pocket and jetted front pockets. Back in a glossy weave with an adjustable tab. Lined.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Slim Fit easy-iron shirt</name>
+		<description>Slim-fit shirt in woven fabric with an easy-iron finish. Turn-down collar, classic front and darts and a yoke at the back. Long sleeves with adjustable buttoning at the cuffs and a sleeve placket with a link button. Gently rounded hem.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Slim Fit Suit</name>
+		<description>Suit trousers in woven fabric with a concealed hook-and-eye fastening and zip fly. Slim fit with side pockets, jetted back pockets and legs with creases.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Slim Fit Suit</name>
+		<description>Suit trousers in woven fabric with a concealed hook-and-eye fastening and zip fly. Slim fit with side pockets, jetted back pockets and legs with creases.</description>
+		<price> </price>
+	</formal>
+	<formal>
+		<name>Relaxed Fit Lyocell Suit</name>
+		<description>Relaxed-fit suit trousers in a lyocell weave with a concealed hook-and-eye fastening and zip fly, side pockets, jetted back pockets with a button, and legs with creases. Fabric made from lyocell is super soft, wrinkle resistant and drapes beautifully.</description>
+		<price> </price>
+	</formal>
+	
+<!--Semi-formal-->
+	<Semiformal>
+		<name>Lulus Cutout and About Black Skater Dress</name>
+		<description>Medium-weight stretch knit shapes a rounded neckline atop a sleeveless bodice with princess seams for a tailored fit. A sultry racerback is framed by cutouts for a unique open back, all above the fitted waist and flirty skater skirt below. Hidden zipper at back.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Always Admired Black Sleeveless Mini Dress</name>
+		<description>Medium-weight stretch knit shapes this cute little dress that features tank straps, a square neckline, and princess-seamed bodice. Fitted waist tops a flirty mini skirt with an A-line silhouette and side slit. Hidden back zipper.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>In Love Forever Plum Lace-Up High-Low Maxi Dress </name>
+		<description>You'll always be in love! Gauzy woven fabric dances across a surplice neckline with elegant princess seams. A set of crisscrossing adjustable straps top off the alluring lace-up back. A wrapped maxi skirt stuns with a double tier of flouncy ruffles before falling to a high-low hem. Hidden back zipper/clasp.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Here's to Us Burgundy High-Low Wrap Dress</name>
+		<description>Breezy woven fabric sweeps over a sleeveless wrap bodice with adjustable spaghetti straps, modified racerback, and tying waist sash. High-low maxi skirt has a front slit and rounded hem.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Shape the Night Dark Teal Blue Asymmetrical Midi Dress! </name>
+		<description>Look chic with this dress that is composed of stretchy knit fabric that shapes an asymmetrical neckline, a darted bodice, and adjustable spaghetti straps. A high, fitted waist continues to a figure-skimming silhouette before ending at an asymmetrical midi hem with a flirty side slit.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Always Celebrating Ivory Satin Off-the-Shoulder Mini Dress</name>
+		<description>Sleek woven satin sweeps across a sexy off-the-shoulder neckline (with hidden no-slip strips), a surplice bodice, and short sleeves. Gathered high waist sits above a mini skirt with an asymmetrical overlapping panel. Hidden back zipper/clasp.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Your Sweetie Red Tie-Strap Mini Dress</name>
+		<description>Stretch-woven fabric shapes this darling dress that falls from tying straps into a square neckline and princess-seamed bodice. A high, fitted waist tops an A-line skirt with a notched mini hem. Hidden back zipper.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name> Feeling Coy Black Scalloped V-Neck Bodycon Dress </name>
+		<description>Stretchy, medium-weight knit shapes this flirty dress with a V-neckline, princess seamed bodice, and figure-flaunting bodycon silhouette. Scalloped detailing along the neckline and side slit add a little something extra! Hidden back zipper/clasp.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Cocktail Club White One-Shoulder Midi Dress is certainly a top shelf choice</name>
+		<description>Stretchy crepe knit shapes a one-shoulder neckline that flows into two asymmetrical tank straps above the fitted bodice. High waist tops a column-style midi skirt with a flirty side slit. Hidden side zipper/clasp.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Reinette Hot Pink Midi Dress garner attention wherever you go!</name>
+		<description> Sleek, woven fabric falls from adjustable skinny straps, into a princess-seamed bodice, fitted waist, and flowing midi skirt with a lightly pleated, overlapping panel that creates a faux wrap silhouette. Slight high-low hem adds an elegant finish. Hidden back zipper/clasp.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Attitude White Off-the-Shoulder Bodycon Midi Dress! </name>
+		<description>Stretchy techno crepe knit shapes this sophisticated dress that features an off-the-shoulder neckline (with hidden no-slip strips), short sleeves, and a princess-seamed bodice with an overlay detail. High, fitted waist sits atop a figure-flaunting midi skirt with a sexy thigh-high side slit. Hidden side zipper/clasp.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Plaid Shirt With Black Dress Pants</name>
+		<description>A bit of formal and a bit of casual turns out into a plaid! Hone the latest plaid trend by incorporating it as a part of your semi-formal look.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Comfort Jacket</name>
+		<description>A versatile outer layer made with stretchy fabric for comfort. The lined sleeves make it easy to slip on and off.</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Extra fine cotton Broadcloth long=sleeve shirt</name>
+		<description>Premium cotton shirt made from ultra-long cotton fibers. Stunning colors and an exquisite texture</description>
+		<price></price>
+	</Semiformal>
+	<Semiformal>
+		<name>Regular-fit shirt </name>
+		<description>In a cotton and linen weave with a turn-down collar, classic front and yoke at the back. Long sleeves with buttoned cuffs and a sleeve placket with a link button. Cotton and linen blends combine the softness of cotton with the sturdiness of linen, creating a beautiful, textured fabric that is breathable and drapes perfectly.</description>
+		<price></price>
+	</Semiformal>
+
+<!--Casual-->
+	<casual>
+		<name>Erina Mauve Multi Stripe Belted Midi Slip Dress</name>
+		<description>This charming slip dress (composed of lightweight woven fabric) stuns with vertical stripes in shades of mauve pink, forest green, blush, chocolate brown, ash grey, and indigo blue. </description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Repeat After Me Black Sleeveless Ruffled Bodysuit</name>
+		<description>Lightweight stretch knit fabric composes of an elasticized, straight neckline and a sleeveless, fitted bodice supported by ruffled spaghetti straps. </description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Verona Sage Green Drawstring Wide-Leg Jumpsuit</name>
+		<description>Lightweight linen-blend fabric forms this versatile jumpsuit with a bib front and adjustable tank straps with brown marbled buttons.</description>
+		<price></price> 
+	</casual>
+	<casual>
+		<name>Kinship Black and White Striped Ribbed Bodysuit!</name>
+		<description> Sleek ribbed knit is perfectly stretchy across short sleeves and a rounded neckline. Fitted bodice ends in thong bottoms with two snap closures.</description>
+		<price></price> 
+	</casual>
+	<casual> 
+		<name>My Direction Red Smocked Puff Sleeve Bodysuit</name>
+		<description>Lightweight knit fabric (with smocking throughout) shapes a scoop neckline framed by short puff sleeves with elastic at the hems.</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Luxe Cutie White Long Sleeve Collared Sweater</name>
+		<description>Medium-gauge, sweater knit shapes this comfy sweater with a collared, V-neckline that carries into a relaxed, slightly-tapered bodice. Long, dolman-style sleeves with fitted cuffs complete the cute, casual look!</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Exotic Sol Tan and Terra Cotta Print Kimono</name>
+		<description>Gauzy, lightweight viscose with an intricate tan print is easy to throw on after a swim. Wide sleeves and side slits.</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Bringing Sexy Back Emerald Green Backless Sweater Dress</name>
+		<description> A rounded neckline and long sleeves bring all your favorite sweater elements to this dress, with a relaxed shape and deep V-back.</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Extra Fine Cotton Short-Sleeve Shirt</name>
+		<description>Updated, roomy regular fit. Made with ultra-long cotton for an exquisite texture and color.</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Dry Stretch Easy Shorts (Leaf)(8")</name>
+		<description>Made with twill for a perfectly casual style. Comfortable stretchy elastic waist</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Flannel Checked Long-Sleeve Shirt</name>
+		<description>Flannel shirt with a solid yet airy feel. Brushed on both sides for extra warmth.</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Rugger Striped Short Sleeve Polo Shirt</name>
+		<description>A comfortable 100% cotton polo shirt. Attractive design that respects tradition</description>
+		<price></price>
+	</casual>
+	<casual> 
+		<name>Chambray Work Long-Sleeve Shirt</name>
+		<description>Chambray shirt with a work-style finish.Universal appeal.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Regular Fit Fine=knit polo shirt</name>
+		<description>Regular-fit polo shirt in a soft, fine-knit cotton blend with a collar, small V-shaped opening at the top and short sleeves. Fine ribbing at the cuffs and hem.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Regular Fit T-shirt</name>
+		<description>T-shirt in soft cotton jersey with a round neckline and a print motif on the front.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Muscle Fit Polo shirt</name>
+		<description>Polo shirt in a fine-knit modal and cotton blend with a ribbed collar, zip at the top and short raglan sleeves.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Smocked cotton dress</name>
+		<description>Knee-length dress in a cotton weave. Square neckline with frill trims and smocking at the top. Shoulder straps with a decorative bow and a gently flared skirt with a frill trim at the hem. </description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Joggers </name>
+		<description>Joggers in soft, organic cotton jersey with an elasticated waist, pockets in the side seams and ribbed hems</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name> Leggings with brushed inside</name>
+		<description>Leggings in heavy, organic cotton jersey with a soft brushed inside. Skinny fit with an easy pull-on, elasticated waist.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Pocket-detail jersey top</name>
+		<description>Long-sleeved top in soft cotton jersey with a round, rib-trimmed neckline and open chest pocket.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Leggings</name>
+		<description>Leggings in heavy, organic cotton jersey with a soft brushed inside. Skinny fit with an easy pull-on, elasticated waist.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name> Cargo Trousers</name>
+		<description>Cargo trousers in stretch cotton twill with an elasticated drawstring waist and fake fly. Side pockets, flap leg pockets with a hook and loop fastening and fake back pockets. </description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>joggers </name>
+		<description>Joggers in soft, organic cotton jersey with an elasticated waist, pockets in the side seams and ribbed hems.</description>
+		<price></price>
+	</casual>
+	<casual>
+		<name>Smocked cotton dress</name>
+		<description>Shoulder straps with a decorative bow and a gently flared skirt with a frill trim at the hem.</description>
+		<price></price>
+	</casual>
+
+<!--Smart Casual-->
+
+	<SmartCasual>
+		<name>Miss Punctuality Black Lightweight Blazer</name>
+		<description>creates a relaxed, breezy fit as it shapes this office-approved blazer with a collared neckline, skinny tuxedo-style lapels, and pointed hems.</description>
+		<price></price>
+	</SmartCasual>
+	<SmartCasual>
+		<name>Miss Punctuality Black and White Floral Lightweight Blazert</name>
+		<description>Artistic floral print, creates a relaxed, breezy fit as it shapes this office-approved blazer with a collared neckline, skinny tuxedo-style lapels, and pointed hems.</description>
+		<price></price>
+	</SmartCasual>
+	<SmartCasual>
+		<name>Miss Punctuality Navy Blue Lightweight Blazert</name>
+		<description>Sleek, lightweight woven fabric creates a relaxed, breezy fit as it shapes this office-approved blazer with a collared neckline, skinny tuxedo-style lapels, and pointed hems..</description>
+		<price></price>
+	</SmartCasual>
+	<SmartCasual>
+		<name>Kinship Black and White Striped Ribbed BodysuSnow Day Sensation Black and White Plaid Peacoat</name>
+		<description>Cozy long sleeves frame a notched collared neckline and a longline silhouette with a double button-front and diagonal welt pockets.</description>
+		<price></price>
+	</SmartCasual>
+	<SmartCasual>
+		<name>Regular Fit Tailored lyocell trousers</name>
+		<description>Covered elastication at the waist and a zip fly with a concealed button and hook-and-eye fastening. Diagonal side pockets, welt back pockets and straight legs with creases.</description>
+		<price></price>
+	</SmartCasual>
+	<SmartCasual>
+		<name>Relaxed Fit Unconstructed jacket</name>
+		<description>Unconstructed jacket with notch lapels and a two-button fastening at the front. Relaxed fit with a chest pocket, patch front pockets, two inner pockets and decorative buttons at the cuffs. </description>
+		<price></price>
+	</SmartCasual>
+	<SmartCasual>
+		<name>Wool-blend coat</name>
+		<description>Gauzy, lightweight viscose with an intricate tan print is easy to throw on after a swim. Wide sleeves and side slits.</description>
+		<price></price>
+	</SmartCasual>
+	<SmartCasual>
+		<name>Essentials: The coat</name>
+		<description> Coat in a felted wool blend with a refined twill texture, soft to the touch and super durable. Clean cut with a current, single-breasted silhouette, designed to fall just above the knee, and a regular fit for a relaxed feel. </description>
+		<price></price>
+	</SmartCasual>
+
+<!--Voucher-->
+	<voucher>
+		<name>Basic</name>
+		<price>₱1,999</price>
+		<description>Voucher per 2 purchase</description>
+		<invite>Buy Now</invite>
+	</voucher>
+	<voucher>
+		<name>Advanced</name>
+		<price>₱4,999</price>
+		<description>Voucher per 10 purchase</description>
+		<invite>Buy Now</invite>
+	</voucher>
+	<voucher>
+		<name>Unlimited</name>
+		<price>₱10,000</price>
+		<description>Voucher per 20 purchase</description>
+		<invite>Buy Now</invite>
+	</voucher>
+<!--Shop Voucher-->
+	<shopvoucher>
+		<discount>15% Off</discount>
+		<description>Min.Spend ₱500  </description>
+		<invite>Shop now</invite>
+	</shopvoucher>
+	<shopvoucher>
+		<discount>12% Off</discount>
+		<description>Min.Spend ₱800 </description>
+		<invite>Shop now</invite>
+	</shopvoucher>
+	<shopvoucher>
+		<discount>50% Off</discount>
+		<description>Min.Spend ₱2,000</description>
+		<invite>Shop now</invite>
+	</shopvoucher>
+	<shopvoucher>
+		<discount>50% Off</discount>
+		<description>Min.Spend ₱3,000</description>
+		<invite>Shop now</invite>
+	</shopvoucher>
+	<shopvoucher>
+		<discount>12% Off</discount>
+		<description>Min.Spend ₱3,000  </description>
+		<invite>Shop now</invite>
+	</shopvoucher>
+	<shopvoucher>
+		<discount>25% Off</discount>
+		<description>Min.Spend ₱8,000  </description>
+		<invite>Shop now</invite>
+	</shopvoucher>
+
+</YourStyle>
